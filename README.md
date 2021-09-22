@@ -9,7 +9,7 @@ i had made a complete tutorial series on how to program this project and login t
  PART 1: 
  what is cookie stealer and how it works? 
  
-https://www.instagram.com/__pytools__/
+https://www.instagram.com/p/COFpGcsn-3s/
 
  PART 2 :
  
