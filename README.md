@@ -1,6 +1,6 @@
 # ADV_COOKIE_STEALER
 
-simple python program, when runs on the target system will send cookie file to your gmail to bypass the login.
+This Python Project will give you complete access over anyones gmail account without Password
 
 # want to know how to use cookie stealer to steal the cookie?
 
